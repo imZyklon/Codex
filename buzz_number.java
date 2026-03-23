@@ -4,6 +4,8 @@
     147
     Buzz number
 
+    Buzz number: number is divisible by 7 or ends with 7.
+
  */
 import java.util.*;
 class buzz_number
